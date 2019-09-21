@@ -57,7 +57,6 @@ rm -rf .git
 
 
 ////////////////React Workshop////////////////
-React Workshop
 Node JS + NPM
 https://nodejs.org/
 
@@ -68,3 +67,23 @@ Create React Project
 npx create-react-app [Name of Project]
 Starting React
 npm start
+
+//////////////Others/////////////////
+React Guide
+https://reactjs.org
+
+React Bootstrap
+https://react-bootstrap.github.io/getting-started/introduction/
+
+How to HTML
+https://www.w3schools.com/html/
+
+How to CSS
+https://www.w3schools.com/css/
+
+How to Javascript
+https://www.w3schools.com/js/default.asp
+https://www.youtube.com/watch?v=PkZNo7MFNFg
+
+Helps and Questions
+google.com
