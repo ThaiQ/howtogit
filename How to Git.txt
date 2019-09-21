@@ -55,5 +55,14 @@ git branch -d [branch name]
 Git remove local repository
 rm -rf .git
 
+
+////////////////React Workshop////////////////
+React Workshop
 Node JS + NPM
 https://nodejs.org/
+
+npx
+npm install -g npx
+
+Create React Project
+npx create-react-app [Name of Project]
