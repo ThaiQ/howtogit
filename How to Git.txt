@@ -66,3 +66,5 @@ npm install -g npx
 
 Create React Project
 npx create-react-app [Name of Project]
+Starting React
+npm start
